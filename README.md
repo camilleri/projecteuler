@@ -1,2 +1,1 @@
-# projecteuler
-My hackerrank project euler's solutions
+# My hackerank ProjectEuler+ solutions
